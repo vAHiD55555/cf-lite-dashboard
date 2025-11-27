@@ -1,0 +1,9 @@
+cf-lite-dashboard/
+├─ public/
+│  ├─ index.html
+│  ├─ app.js
+│  ├─ style.css
+│  ├─ manifest.json
+│  └─ sw.js
+└─ worker/
+   └─ worker.js
